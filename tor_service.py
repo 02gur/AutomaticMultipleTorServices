@@ -10,7 +10,7 @@ Automatic Multiple Tor Proxy Service
 
 Kategori:   Python
 Paket:      Multi Tor Proxy Service
-Yazar:      Özgür Şahin <0zgur>
+Yazar:      Özgür Şahin <02gur>
 Lisans:     https://github.com/02gur/AutomaticMultipleTorServices/blob/main/LICENSE  APACHE Lisansı
 Bağlantı:   https://github.com/02gur/AutomaticMultipleTorServices
 """
