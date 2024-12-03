@@ -16,6 +16,19 @@ cd AutomaticMultipleTorServices
 python3 tor_service.py
 1. Create Tor instances 
 2. Start Tor instances
+3. List ports
+example ;
+tor3 - SocksPort: 9054
+tor9 - SocksPort: 9066
+tor4 - SocksPort: 9056
+tor7 - SocksPort: 9062
+tor5 - SocksPort: 9058
+tor8 - SocksPort: 9064
+tor2 - SocksPort: 9052
+tor10 - SocksPort: 9068
+tor6 - SocksPort: 9060
+tor1 - SocksPort: 9050
+
 (Do not stop python code)
 and use ..
 Testing
