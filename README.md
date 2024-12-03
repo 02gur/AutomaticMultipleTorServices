@@ -14,7 +14,9 @@ git clone https://github.com/02gur/AutomaticMultipleTorServices.git
 cd AutomaticMultipleTorServices
 * Start
 python3 tor_service.py
-
+1. Create Tor instances 
+2. Start Tor instances
+(Do not stop python code)
 and use ..
 Testing
 curl --socks5 127.0.0.1:9050 https://api.myip.com
