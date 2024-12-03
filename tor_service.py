@@ -11,8 +11,8 @@ Automatic Multiple Tor Proxy Service
 Kategori:   Python
 Paket:      Multi Tor Proxy Service
 Yazar:      Özgür Şahin <0zgur>
-Lisans:     https://raw.githubusercontent.com/02gur/AutomaticTorServices/main/LICENSE  APACHE Lisansı
-Bağlantı:   https://raw.githubusercontent.com/02gur/AutomaticTorServices
+Lisans:     https://raw.githubusercontent.com/02gur/AutomaticMultipleTorServices/LICENSE  APACHE Lisansı
+Bağlantı:   https://raw.githubusercontent.com/02gur/AutomaticMultipleTorServices
 """
 
 BASE_DIR = os.path.expanduser("~/tor-instances")
